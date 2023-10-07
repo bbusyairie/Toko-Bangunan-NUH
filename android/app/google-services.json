@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "825310823739",
+    "project_id": "tbnuhwebsite",
+    "storage_bucket": "tbnuhwebsite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825310823739:android:78177687ca47d07d2ea31e",
+        "android_client_info": {
+          "package_name": "com.bbysairie.toko_bangunan_nuh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825310823739-rggns41gc7jq4opk7bq2pq5v4t8mbfvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bbysairie.toko_bangunan_nuh",
+            "certificate_hash": "57d12ae8f6d16b6a34d8655ca981e3241e9eda4d"
+          }
+        },
+        {
+          "client_id": "825310823739-g2h9nrrenso6fpbvsuj0v3ctj3ka0dea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDckOUvVKhSVxlsD2rl1_egl2DIxl2zxGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825310823739-5qobgj7n5s3bl4vuako0436o5h1170bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
